@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-scroll-progress"
+  "defaultProject": "angular-scroll-progress",
+  "cli": {
+    "analytics": false
+  }
 }
